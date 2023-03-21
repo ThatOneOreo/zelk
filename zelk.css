@@ -33,11 +33,11 @@
 /*-------------DARK MODE-------------*/
 /*---------------BASIC---------------*/
 .theme-dark {
-  --accent-color: #bde6fb;
-  --background-1: #171d20;
-  --background-2: #1e2529;
-  --background-accent: #1e2529;
-  --border-color: #273034;
+  --accent-color: #8c00ff;
+  --background-1: #7937ae;
+  --background-2: #532579;
+  --background-accent: #aa42ff;
+  --border-color: #8c00ff;
 }
 /*-------------LIGHT MODE------------*/
 .theme-light {
